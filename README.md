@@ -4,6 +4,10 @@
 
 # STEP1- Install Solana CLI
 ## use codespace as your code environment
+https://github.com/codespaces
+
+![Screenshot_20240823-205917_Chrome](https://github.com/user-attachments/assets/a54ba815-44fd-4990-a6c3-75aa5da4175b)
+
 
 ```
 sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"

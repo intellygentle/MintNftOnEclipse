@@ -98,6 +98,9 @@ ts-node -v
 
  <img width="212" alt="indxts" src="https://github.com/user-attachments/assets/3ed887db-ce61-4fb1-aa26-637d27262943">
 
+ <img width="821" alt="indxEdt" src="https://github.com/user-attachments/assets/232f27eb-6f9e-4a3d-a79b-dfbb011b9b4e">
+
  
+
 
 

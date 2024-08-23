@@ -134,3 +134,9 @@ ts-node index.ts
 <img width="557" alt="mntd" src="https://github.com/user-attachments/assets/bbf241a6-becf-45f1-8a27-0b1fa1e25cad">
 
 
+# Mint on Testet vs Mint on Mainnet
+## go to line 49 in your index.ts file, where it says "CLUSTERS.testnet" just change it to "CLUSTERS.mainnet" to mint Nft on mainnet provided you have bridged into mainnet too
+
+<img width="579" alt="tstmain" src="https://github.com/user-attachments/assets/b2e03514-b387-4da4-8c23-c80ce3452a3c">
+
+

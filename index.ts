@@ -168,7 +168,7 @@ async function verifyOnChainData(metadataUri: string): Promise<void> {
 }
 
 async function main() {
-    const imageCid = await uploadImage('/workspaces/codespaces-blank/EclipseInteract/eclipse-nft/pixel.png'); // 👈 Replace this with the path to your image
+    const imageCid = await uploadImage('/workspaces/codespaces-blank/eclipse-deposit/MintNftOnEclipse/pixel.png'); // 👈 Replace this with the path to your image
     const metadataCid = await uploadMetadata(imageCid); 
     await mintAsset(metadataCid);
     await verifyOnChainData(metadataCid);

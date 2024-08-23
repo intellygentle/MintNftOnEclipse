@@ -2,7 +2,7 @@
 
 ## This is a three-steps task, try to sit tight
 
-# STEP1
+# STEP1- Install Solana CLI
 
 ```
 sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"
@@ -40,7 +40,7 @@ solana config set --keypair ~/.config/solana/id.json
 solana address
 ```
 
- # Step2
+ # Step2- Bridge to Eclipse
 
  ```
 git clone https://github.com/Eclipse-Laboratories-Inc/eclipse-deposit
@@ -74,14 +74,27 @@ node bin/cli.js -k example-private-key.txt -d yourBackPackWalletAddressForEclips
 
 <img width="633" alt="hshh" src="https://github.com/user-attachments/assets/5aa465b1-0911-4ccd-a146-40f697a3f8ca">
 
+# Step3- Mint NFT
 
 ```
-git clone https://github.com/Eclipse-Laboratories-Inc/eclipse-deposit
-cd eclipse-deposit
-yarn install
+git clone https://github.com/intellygentle/MintNftOnEclipse.git
 ```
+
 ```
-https://github.com/intellygentle/MintNftOnEclipse.git
-MintNftOnEclipse
+cd MintNftOnEclipse
 ```
+
+```
+nvm install --lts
+nvm use --lts
+npm install -g typescript
+npm install -g ts-node
+tsc -v
+ts-node -v
+```
+ ## Run solana config get then copy the keypair path, go to line 51 in index.ts and paste there
+
+ <img width="607" alt="get" src="https://github.com/user-attachments/assets/9ef23878-dfee-44b4-895d-16a9f859ebc8">
+
  
+

@@ -92,7 +92,8 @@ npm install -g ts-node
 tsc -v
 ts-node -v
 ```
- ## Run solana config get then copy the keypair path, go to line 51 in index.ts and paste there
+ ## Run solana config get then copy the keypair path, go to line 51 in index.ts and replace the "...blabla..." 
+## with the keypair path you copied
 
  <img width="607" alt="get" src="https://github.com/user-attachments/assets/9ef23878-dfee-44b4-895d-16a9f859ebc8">
 

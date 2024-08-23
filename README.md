@@ -102,8 +102,22 @@ ts-node -v
  <img width="821" alt="indxEdt" src="https://github.com/user-attachments/assets/232f27eb-6f9e-4a3d-a79b-dfbb011b9b4e">
 
  ## open new terminal
+
 ```
-cd eclipse-deposit/MintNftOnEclipse/go-ipfs
+wget https://dist.ipfs.tech/go-ipfs/v0.19.1/go-ipfs_v0.19.1_linux-amd64.tar.gz
+```
+
+```
+tar -xvzf go-ipfs_v0.19.1_linux-amd64.tar.gz
+```
+```
+cd go-ipfs
+sudo bash install.sh
+ipfs init
+```
+
+```
+ipfs daemon
 ```
 
 

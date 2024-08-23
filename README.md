@@ -95,6 +95,10 @@ ts-node -v
  ## Run solana config get then copy the keypair path, go to line 51 in index.ts and replace the "...blabla..." 
 ## with the keypair path you copied
 
+```
+solana config get
+```
+
  <img width="607" alt="get" src="https://github.com/user-attachments/assets/9ef23878-dfee-44b4-895d-16a9f859ebc8">
 
  <img width="212" alt="indxts" src="https://github.com/user-attachments/assets/3ed887db-ce61-4fb1-aa26-637d27262943">
@@ -119,6 +123,9 @@ ipfs init
 ```
 ipfs daemon
 ```
+## when you see Deamon Ready, go back to terminal
+
+<img width="595" alt="readyD" src="https://github.com/user-attachments/assets/26746b80-f4e8-48a5-b98d-312c89a60ab4">
 
 
 

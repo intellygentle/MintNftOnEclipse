@@ -96,5 +96,8 @@ ts-node -v
 
  <img width="607" alt="get" src="https://github.com/user-attachments/assets/9ef23878-dfee-44b4-895d-16a9f859ebc8">
 
+ <img width="212" alt="indxts" src="https://github.com/user-attachments/assets/3ed887db-ce61-4fb1-aa26-637d27262943">
+
  
+
 

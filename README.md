@@ -3,6 +3,7 @@
 ## This is a three-steps task, try to sit tight
 
 # STEP1- Install Solana CLI
+## use codespace as your code environment
 
 ```
 sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"

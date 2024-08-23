@@ -8,7 +8,13 @@
 sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"
 ```
 Run what you see in your terminal next
+
 <img width="643" alt="expPath" src="https://github.com/user-attachments/assets/2a0fa0f4-aa79-4e70-86ed-4c068fd17cb8">
+
+```
+solana-install update
+```
+
 
 
 

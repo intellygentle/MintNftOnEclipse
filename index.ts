@@ -34,8 +34,8 @@ const OPTIONS: TransactionBuilderSendAndConfirmOptions = {
 };
 
 const NFT_DETAILS = {
-    name: "Intell Eclipse Test",
-    symbol: "IET",
+    name: "Intell Eclipse NFT",
+    symbol: "IEN",
     royalties: 500, // Basis Points (5%)
     description: 'Pixel infrastructure for everyone!',
     imgType: 'image/png',

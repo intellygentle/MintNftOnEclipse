@@ -127,5 +127,10 @@ ipfs daemon
 
 <img width="595" alt="readyD" src="https://github.com/user-attachments/assets/26746b80-f4e8-48a5-b98d-312c89a60ab4">
 
+## Run the code to mint NFT
+```
+ts-node index.ts
+```
+<img width="557" alt="mntd" src="https://github.com/user-attachments/assets/bbf241a6-becf-45f1-8a27-0b1fa1e25cad">
 
 

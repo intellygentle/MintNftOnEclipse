@@ -101,7 +101,10 @@ ts-node -v
 
  <img width="821" alt="indxEdt" src="https://github.com/user-attachments/assets/232f27eb-6f9e-4a3d-a79b-dfbb011b9b4e">
 
- 
+ ## open new terminal
+```
+cd eclipse-deposit/MintNftOnEclipse/go-ipfs
+```
 
 
 

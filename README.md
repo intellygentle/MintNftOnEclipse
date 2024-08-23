@@ -45,14 +45,34 @@ solana address
  ```
 git clone https://github.com/Eclipse-Laboratories-Inc/eclipse-deposit
 ```
+
 ```
 cd eclipse-deposit
+
 ```
+
 ```
 yarn install
 ```
 
+##  fund a wallet with sepolia Eth 0.1 or mainnet Eth 0.0035, copy the private key and paste it in example-private-key.txt
+```
+nano example-private-key.txt 
+```
+## clean the text there, input the private key of the sepolia Eth and press ctrl+x then y and enter
 
+## for testnet
+```
+node bin/cli.js -k example-private-key.txt -d yourBackPackWalletAddressForEclipse -a 0.005 --sepolia
+```
+## for Mainnet 
+```
+node bin/cli.js -k example-private-key.txt -d yourBackPackWalletAddressForEclipse -a 0.002 --mainnet
+```
+
+## Depending on the network you are running you should see this hash response which means you have bridged to eclipse testnet or mainnet
+
+<img width="633" alt="hshh" src="https://github.com/user-attachments/assets/5aa465b1-0911-4ccd-a146-40f697a3f8ca">
 
 
 ```

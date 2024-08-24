@@ -3,7 +3,7 @@
 ## This is a three-steps task, try to sit tight
 
 # STEP1- Install Solana CLI
-## use codespace as your code environment
+## use codespace or gitpod or vscode as your code environment
 https://github.com/codespaces
 
 ![Screenshot_20240823-210201_Chrome](https://github.com/user-attachments/assets/d9accee2-f5e2-4a7e-8850-eb29c03a2180)
@@ -112,6 +112,10 @@ solana config get
 
  <img width="821" alt="indxEdt" src="https://github.com/user-attachments/assets/232f27eb-6f9e-4a3d-a79b-dfbb011b9b4e">
 
+## copy the path to pixel.png and paste into line 171 of index.ts
+
+<img width="635" alt="li171" src="https://github.com/user-attachments/assets/a8b4817c-776e-4ffa-a783-947a3be14cd5">
+ 
  ## open new terminal
 
 ```
